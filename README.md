@@ -17,7 +17,5 @@ Bash or Node.js ? script to migrate a basic React project created with [CRA](htt
 ## References
 
 - <https://javascript.plainenglish.io/migrating-a-create-react-app-cra-application-to-vite-788b13243b5a>
-
 - <https://craftsmenltd.com/blog/2022/06/23/migrating-your-create-react-app-project-to-vite/>
-
 - <https://cathalmacdonnacha.com/migrating-from-create-react-app-cra-to-vite>
