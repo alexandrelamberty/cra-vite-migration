@@ -9,8 +9,8 @@ Bash or Node.js ? script to migrate a basic React project created with [CRA](htt
 - [ ] Add Vite scripts to the `package.json` file.
 - [ ] Add the `vite.config.ts` file at the root of the project.
 - [ ] Update/replace the `tsconfig.json` file. How to merge and or replace ?
-- [ ] Replace in all js, jsx, ts or tsx files in the `src` folder the string : `process.env` with `import.meta.env`
-- [ ] Replace in all `*.env*` files placed on the root of the project the string : `REACT_APP_` with `VITE_`
+- [ ] Replace in all js, jsx, ts or tsx files in the `src` folder the strings : `process.env` with `import.meta.env`
+- [ ] Replace in all `*.env*` files placed on the root of the project the strings : `REACT_APP_` with `VITE_`
 - [ ] Move and update the `index.html` file.
 - [ ] Update the `index.html` file.
 
