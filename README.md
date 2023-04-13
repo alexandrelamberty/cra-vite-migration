@@ -4,7 +4,7 @@ Bash or Node.js ? script to migrate a basic React project created with [CRA](htt
 
 ## Steps
 
-- [ ] Make a copy a the project to migrate
+- [ ] Make a copy of the project to migrate
 - [ ] Remove CRA scripts from the `package.json` file.
 - [ ] Add Vite scripts to the `package.json` file.
 - [ ] Add the `vite.config.ts` file at the root of the project.
