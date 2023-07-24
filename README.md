@@ -12,7 +12,6 @@ Bash or Node.js ? script to migrate a basic React project created with [CRA](htt
 - [ ] Replace in all js, jsx, ts or tsx files in the `src` folder the string : `process.env` with `import.meta.env`
 - [ ] Replace in all `*.env*` files placed on the root of the project the string : `REACT_APP_` with `VITE_`
 - [ ] Move and update the `index.html` file.
-- [ ] Update the `index.html` file.
 
 ## References
 
